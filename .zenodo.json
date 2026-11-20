@@ -1,0 +1,21 @@
+{
+  "title": "Threshold Skills: a dated design record",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "<p>Don't list your skills. Let them light up.</p><p>A way to keep dozens of working procedures (\"skills\") for an AI **without putting even a catalog of them in the prompt**.\nSkills live in the same memory as conversations. A skill surfaces only when the question in front of the AI is close enough to it — and even then, only its title and a query to read it.</p><p>A dated public record of the design. The implementation is not published. More: https://subtractlab.com</p>",
+  "creators": [
+    {
+      "name": "Okuda, Koji",
+      "affiliation": "SubtractLab",
+      "orcid": "0009-0003-9251-8455"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "AI memory",
+    "conversational memory",
+    "LLM agents",
+    "SubtractLab"
+  ]
+}
