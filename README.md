@@ -9,6 +9,7 @@ Skills live in the same memory as conversations. A skill surfaces only when the 
 ![runs](https://img.shields.io/badge/runs-local%20%2B%20MCP-blue)
 ![status](https://img.shields.io/badge/status-in%20daily%20use-brightgreen)
 ![since](https://img.shields.io/badge/in%20use%20since-2026--09--21-lightgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24388291.svg)](https://doi.org/10.5281/zenodo.24388291)
 
 ---
 
